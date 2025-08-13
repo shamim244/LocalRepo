@@ -1,0 +1,10 @@
+{
+  "name": "CAT",
+  "symbol": "CAT",
+  "description": "CAT is a test SPL token on Solana Devnet.",
+  "image": "https://korbabandhu.com/wp-content/uploads/2025/08/cat.jpg",
+  "attributes": [
+    { "trait_type": "Type", "value": "Utility Token" },
+    { "trait_type": "Network", "value": "Devnet" }
+  ]
+}
